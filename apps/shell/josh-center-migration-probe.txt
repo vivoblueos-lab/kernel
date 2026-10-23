@@ -1,2 +1,0 @@
-Center migration verification: apps_shell
-Direction: kernel to subtree
