@@ -1,2 +1,0 @@
-Center migration verification: apps_example
-Direction: kernel to subtree
