@@ -1,2 +1,0 @@
-Center migration verification: book
-Direction: kernel to subtree

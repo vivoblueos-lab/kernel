@@ -1,2 +1,0 @@
-Center migration verification: build
-Direction: kernel to subtree
